@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Tytus\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Tytus\\.nuget\\packages"
+    ]
+  }
+}
